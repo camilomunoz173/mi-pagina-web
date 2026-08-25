@@ -1,1 +1,22 @@
+body { background-color: #180E29; color: #F3EFF7; font-family: monospace; }
 
+h1 { color: #D4AF37; text-align: center; font-size: 32px; }
+
+h2 { color: #D4AF37 !important; border-bottom: 1px solid #D4AF37; }
+
+p { color: #FFFFFF !important; font-size: 36px; }
+
+
+a { color: #D4AF37; text-decoration: none; }
+
+a:hover { color: #E5C158; text-decoration: underline; }
+
+img { max-width: 100%; height: auto; border: 2px solid #D4AF37; border-radius: 8px; display: block; margin: 20px auto; }
+
+.muñoz {
+    font-style: italic;           /* Mantiene o fuerza la cursiva */
+    color: #D4AF37;               /* Color de texto */
+    font-size: 18px;              /* Tamaño de la letra */
+    text-transform: uppercase;   /* Convierte el texto a mayúsculas si deseas */
+    letter-spacing: 1px;          /* Separación entre letras */
+}
